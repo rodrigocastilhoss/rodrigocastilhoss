@@ -1,2 +1,1 @@
-- 👋 Sou um desenvolvedor iniciante / I am a beginner developer
-- 🌱 Atualmente estou estudando Python / I’m currently learning Python
+
